@@ -1,5 +1,3 @@
 # Concatenate-Data
 IT Career
 
-
-
